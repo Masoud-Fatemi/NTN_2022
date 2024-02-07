@@ -22,6 +22,7 @@ The dataset was developed in 4 steps: **user extraction**, **labelling**, **filt
     - Remove verified accounts to focus the dataset on regular users. <br />
     - Filtering based on the network size, excluding users with more than 500 contacts, the top 1% most active, and the bottom 1% least active accounts. <br />
   5. **Tweet Collection:** For the final user list, we collected up to 3,200 of the latest messages per user, excluding retweets.
+![image](https://github.com/Masoud-Fatemi/NTN_2022/assets/25830298/3f2babbc-271b-4f03-929c-f9bb63e1b98c)
 <br />
 Once these steps finished, directed links were established based on interactional relationships, and only the largest connected component was retained.
 
