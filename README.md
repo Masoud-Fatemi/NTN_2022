@@ -33,8 +33,8 @@ The NTN-2022 dataset comprises XXX nodes and XXX directed edges, representing us
 - **labels.txt:** Includes node IDs and their corresponding country labels, identifying the Nordic country each user is associated with.
 
 ## Statistical Summary
-**Nodes:** 15,794 <br />
-**Links:** 54,027 <br />
+**Nodes:** XXX <br />
+**Links:** XXX <br />
 Country Distribution: Most users are from Finland (37%) and Sweden (43%), with Iceland being the least represented (2%).
 
 
