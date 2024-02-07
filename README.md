@@ -27,7 +27,7 @@ Once these steps finished, directed links were established based on interactiona
 
 ## Dataset Composition
 The NTN-2022 dataset comprises XXX nodes and XXX directed edges, representing user interactions. The dataset includes detailed country labels for each node, indicating the user's location among the five Nordic countries(FI=Finland, SE=Sweden, NO=Norway, DK=Denmark, IS=Iceland), with Finland and Sweden being the most represented.
-<be />
+<br />
 **NOTE**: For privacy reasons, the collected tweets will not be made public, and user IDs have been anonymized.
 
 ## Files Included
