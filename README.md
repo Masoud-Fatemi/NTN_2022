@@ -1,8 +1,10 @@
 # Nordic Twitter Network Dataset (NTN_2022)
 
 ## Overview
-The NTN-2022 dataset is a comprehensive network data collection focused on Twitter user activities within the Nordic countries between November 2016 and November 2022.<br />
-Contact: masoud[dot]fatemi[at]uef[dot]fi
+The NTN-2022 dataset is a comprehensive network data collection focused on Twitter user activities within the Nordic countries between November 2016 and November 2022.
+<br />
+<br />
+Contact: [masoud.fatemi@uef.fi](masoud.fatemi@uef.fi)
 
 ## Usage
 This dataset is intended for academic research and analysis focused on the empirical structure of social relations within the Nordic Twittersphere. Users are encouraged to cite our paper in any resulting work.
