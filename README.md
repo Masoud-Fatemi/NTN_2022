@@ -14,6 +14,8 @@ M. Fatemi, S. Sieranoja, M. Laitinen, and P. Fränti, "Cluster Analysis of Nordi
 
 ## Dataset Creation Process
 The dataset was developed in 4 steps: **user extraction**, **labelling**, **filtering**, and **tweet collection** across the entire network. Here is a brief overview of the steps involved:
+
+![image](https://github.com/Masoud-Fatemi/NTN_2022/assets/25830298/021b1a7c-a1c2-4edf-a1e8-19898e5582e0)
 <br />
   1. **User Extraction:** Initially, all Twitter users with tweets in the [Nordic Tweet Stream (NTS)](https://erepo.uef.fi/handle/123456789/6697) from November 2016 to November 2022 were extracted.
   2. **User Labeling:** Users were then labelled based on the country from which they tweeted, focusing exclusively on the five Nordic countries. Users tweeting from more than one country (travellers) were excluded to maintain geographical consistency.
@@ -22,8 +24,6 @@ The dataset was developed in 4 steps: **user extraction**, **labelling**, **filt
     - Remove verified accounts to focus the dataset on regular users. <br />
     - Filtering based on the network size, excluding users with more than 500 contacts, the top 1% most active, and the bottom 1% least active accounts. <br />
   4. **Tweet Collection:** For the final user list, we collected up to 3,200 of the latest messages per user, excluding retweets.
-
-![image](https://github.com/Masoud-Fatemi/NTN_2022/assets/25830298/021b1a7c-a1c2-4edf-a1e8-19898e5582e0)
 <br />
 <br />
 Once these steps finished, directed links were established based on interactional relationships, and only the largest connected component was retained.
