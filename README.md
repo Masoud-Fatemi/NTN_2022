@@ -18,9 +18,9 @@ The dataset was developed in 4 steps: **user extraction**, **labelling**, **filt
   1. **User Extraction:** Initially, all Twitter users with tweets in the [Nordic Tweet Stream (NTS)](https://erepo.uef.fi/handle/123456789/6697) from November 2016 to November 2022 were extracted.
   2. **User Labeling:** Users were then labelled based on the country from which they tweeted, focusing exclusively on the five Nordic countries. Users tweeting from more than one country (travellers) were excluded to maintain geographical consistency.
   3. **User Filtering:** This step involves filtering out users based on several criteria: <br />
-    - Exclusion of users with uncertain locations or whose self-reported location did not match their tweet locations. <br />
-    - Remove verified accounts to focus the dataset on regular users. <br />
-    - Filtering based on the network size, excluding users with more than 500 contacts, the top 1% most active, and the bottom 1% least active accounts. <br />
+    . Exclusion of users with uncertain locations or whose self-reported location did not match their tweet locations. <br />
+    . Remove verified accounts to focus the dataset on regular users. <br />
+    . Filtering based on the network size, excluding users with more than 500 contacts, the top 1% most active, and the bottom 1% least active accounts. <br />
   5. **Tweet Collection:** For the final user list, we collected up to 3,200 of the latest messages per user, excluding retweets.
 <br />
 Once these steps finished, directed links were established based on interactional relationships, and only the largest connected component was retained.
