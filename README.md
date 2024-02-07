@@ -21,7 +21,8 @@ The dataset was developed in 4 steps: **user extraction**, **labelling**, **filt
     - Exclusion of users with uncertain locations or whose self-reported location did not match their tweet locations. <br />
     - Remove verified accounts to focus the dataset on regular users. <br />
     - Filtering based on the network size, excluding users with more than 500 contacts, the top 1% most active, and the bottom 1% least active accounts. <br />
-  5. **Tweet Collection:** For the final user list, we collected up to 3,200 of the latest messages per user, excluding retweets.
+  4. **Tweet Collection:** For the final user list, we collected up to 3,200 of the latest messages per user, excluding retweets.
+<br />
 ![image](https://github.com/Masoud-Fatemi/NTN_2022/assets/25830298/021b1a7c-a1c2-4edf-a1e8-19898e5582e0)
 <br />
 <br />
