@@ -4,10 +4,11 @@
 The NTN-2022 dataset is a comprehensive network data collection focused on Twitter user activities within the Nordic countries between November 2016 and November 2022.
 Contact: masoud[dot]fatemi[at]uef[dot]fi
 
-## Usage and Cite
+## Usage
 This dataset is intended for academic research and analysis focused on the empirical structure of social relations within the Nordic Twittersphere. Users are encouraged to cite our paper in any resulting work.
 
-M. Fatemi, S. Sieranoja, M. Laitinen, and P. Fränti, "Cluster Analysis of Nordic Social Media Users Based on Connection", JOURNAL NAME and INFORMATION HERE, 2024.
+## Cite
+M. Fatemi, S. Sieranoja, M. Laitinen, and P. Fränti, "Cluster Analysis of Nordic Social Media Users Based on Connection", *JOURNAL NAME and INFORMATION HERE*, 2024.
 
 
 ## Dataset Creation Process
