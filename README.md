@@ -23,11 +23,11 @@ The dataset was developed in 4 steps: **user extraction**, **labelling**, **filt
     - Filtering based on the network size, excluding users with more than 500 contacts, the top 1% most active, and the bottom 1% least active accounts. <br />
   5. **Tweet Collection:** For the final user list, we collected up to 3,200 of the latest messages per user, excluding retweets.
 <br />
-<br />
 Once these steps finished, directed links were established based on interactional relationships, and only the largest connected component was retained.
 
 ## Dataset Composition
 The NTN-2022 dataset comprises XXX nodes and XXX directed edges, representing user interactions. The dataset includes detailed country labels for each node, indicating the user's location among the five Nordic countries(FI=Finland, SE=Sweden, NO=Norway, DK=Denmark, IS=Iceland), with Finland and Sweden being the most represented.
+<br />
 <br />
 **NOTE**: For privacy reasons, the collected tweets will not be made public, and user IDs have been anonymized.
 
