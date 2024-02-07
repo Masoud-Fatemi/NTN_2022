@@ -2,6 +2,13 @@
 
 ## Overview
 The NTN-2022 dataset is a comprehensive network data collection focused on Twitter user activities within the Nordic countries between November 2016 and November 2022.
+Contact: masoud[dot]fatemi[at]uef[dot]fi
+
+## Usage and Cite
+This dataset is intended for academic research and analysis focused on the empirical structure of social relations within the Nordic Twittersphere. Users are encouraged to cite our paper in any resulting work.
+
+M. Fatemi, S. Sieranoja, M. Laitinen, and P. Fränti, "Cluster Analysis of Nordic Social Media Users Based on Connection", JOURNAL NAME and INFORMATION HERE, 2024.
+
 
 ## Dataset Creation Process
 The dataset was developed in 4 steps: user extraction, labelling, filtering, and tweet collection across the entire network. Here is a brief overview of the steps involved:
@@ -27,7 +34,6 @@ Nodes: 15,794
 Links: 54,027
 Country Distribution: Most users are from Finland (37%) and Sweden (43%), with Iceland being the least represented (2%).
 
-## Usage
-This dataset is intended for academic research and analysis focused on the empirical structure of social relations within the Nordic Twittersphere. Users are encouraged to cite our paper in any resulting work.
 
-For any queries or further information, please contact masoud[dot]fatemi[at]uef[dot]fi
+
+
