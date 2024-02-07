@@ -1,4 +1,4 @@
-# Nordic Twitter Network Dataset (NTN_2022)
+# Nordic Twitter Network (NTN_2022)
 
 ## Overview
 The NTN-2022 dataset is a network dataset focused on Twitter users within the Nordic countries between November 2016 and November 2022.
