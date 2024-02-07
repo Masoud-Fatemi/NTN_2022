@@ -15,13 +15,15 @@ M. Fatemi, S. Sieranoja, M. Laitinen, and P. Fränti, "Cluster Analysis of Nordi
 ## Dataset Creation Process
 The dataset was developed in 4 steps: **user extraction**, **labelling**, **filtering**, and **tweet collection** across the entire network. Here is a brief overview of the steps involved:
 <br />
-  1. User Extraction: Initially, all Twitter users with tweets in the Nordic Tweet Stream (NTS) from November 2016 to November 2022 were extracted.
-User Labeling: Users were then labelled based on the country from which they tweeted, focusing exclusively on the five Nordic countries. Users tweeting from more than one country (travellers) were excluded to maintain geographical consistency.
-User Filtering: This step involves filtering out users based on several criteria:
-Exclusion of users with uncertain locations or whose self-reported location did not match their tweet locations.
-Removal of verified accounts to focus the dataset on regular users.
-Filtering based on the network size, excluding users with more than 500 contacts, the top 1% most active, and the bottom 1% least active accounts.
-Tweet Collection: For the final user list, we collected up to 3,200 of the latest messages per user, excluding retweets.
+  1. **User Extraction:** Initially, all Twitter users with tweets in the [Nordic Tweet Stream (NTS)](https://erepo.uef.fi/handle/123456789/6697) from November 2016 to November 2022 were extracted.
+  2. **User Labeling:** Users were then labelled based on the country from which they tweeted, focusing exclusively on the five Nordic countries. Users tweeting from more than one country (travellers) were excluded to maintain geographical consistency.
+  3. **User Filtering:** This step involves filtering out users based on several criteria:
+    + Exclusion of users with uncertain locations or whose self-reported location did not match their tweet locations.
+    - Remove verified accounts to focus the dataset on regular users.
+    * Filtering based on the network size, excluding users with more than 500 contacts, the top 1% most active, and the bottom 1% least active accounts.
+  4. **Tweet Collection:** For the final user list, we collected up to 3,200 of the latest messages per user, excluding retweets.
+<br />
+<br />
 Once these steps finished, directed links were established based on interactional relationships, and only the largest connected component was retained.
 
 ## Dataset Composition
