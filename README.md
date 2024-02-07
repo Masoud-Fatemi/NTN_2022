@@ -24,7 +24,7 @@ The dataset was developed in 4 steps: **user extraction**, **labelling**, **filt
   5. **Tweet Collection:** For the final user list, we collected up to 3,200 of the latest messages per user, excluding retweets.
 <br />
 <br />
-![image](https://github.com/Masoud-Fatemi/NTN_2022/assets/25830298/3f2babbc-271b-4f03-929c-f9bb63e1b98c)
+![image](https://github.com/Masoud-Fatemi/NTN_2022/assets/25830298/021b1a7c-a1c2-4edf-a1e8-19898e5582e0)
 <br />
 <br />
 Once these steps finished, directed links were established based on interactional relationships, and only the largest connected component was retained.
