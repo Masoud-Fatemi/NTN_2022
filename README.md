@@ -26,16 +26,15 @@ The dataset was developed in 4 steps: **user extraction**, **labelling**, **filt
 Once these steps finished, directed links were established based on interactional relationships, and only the largest connected component was retained.
 
 ## Dataset Composition
-The NTN-2022 dataset comprises 15,794 nodes and 54,027 directed edges, representing user interactions. The dataset includes detailed country labels for each node, indicating the user's location among the five Nordic countries, with Finland and Sweden being the most represented.
-A sample graph from the NTN-2022 dataset, featuring 3,273 nodes and 13,483 edges.
+The NTN-2022 dataset comprises XXX nodes and XXX directed edges, representing user interactions. The dataset includes detailed country labels for each node, indicating the user's location among the five Nordic countries(FI=Finland, SE=Sweden, NO=Norway, DK=Denmark, IS=Iceland), with Finland and Sweden being the most represented.
 
 ## Files Included
-network.txt: Contains all nodes and directed edges from each node to others, detailing the user interactions within the network.
-labels.txt: Includes node IDs and their corresponding country labels, identifying the Nordic country each user is associated with.
+- **network.txt:** Contains all nodes and directed edges from each node to others, detailing the user interactions within the network.
+- **labels.txt:** Includes node IDs and their corresponding country labels, identifying the Nordic country each user is associated with.
 
 ## Statistical Summary
-Nodes: 15,794
-Links: 54,027
+**Nodes:** 15,794 <br />
+**Links:** 54,027 <br />
 Country Distribution: Most users are from Finland (37%) and Sweden (43%), with Iceland being the least represented (2%).
 
 
