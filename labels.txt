@@ -1,0 +1,6 @@
+1 FI
+2 SE
+3 SE
+4 DK
+5 IS
+6 NO
