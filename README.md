@@ -49,7 +49,7 @@ First node id = 1, neighbors = [2, 3, 4]
 ## Statistical Summary
 **Nodes:** XXX <br />
 **Links:** XXX <br />
-Country Distribution: Most users are from Finland (37%) and Sweden (43%), with Iceland being the least represented (2%).
+Country Distribution: Finland 37%, Sweden 43%, Norway XX, Denmark XX, and Iceland (2%).
 
 
 
