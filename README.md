@@ -34,8 +34,15 @@ The NTN-2022 dataset comprises XXX nodes and XXX directed edges, representing us
 **NOTE**: For privacy reasons, the collected tweets will not be made public, and user IDs have been anonymized.
 
 ## Files Included
-- **network.txt:** Contains all nodes and directed edges from each node to others, detailing the user interactions within the network.
-- **labels.txt:** Includes node IDs and their corresponding country labels, identifying the Nordic country each user is associated with.
+- **network.txt:** Contains all nodes and directed edges from each node to others. Each row starts with a user ID (in range 0...N), which corresponds to the user for that row. Following the user ID are the IDs of other nodes to which there is a direct connection from this user. Lines end with '\n' (including last line).
+<br />
+Example row: 
+```
+1 2 3 4 
+```
+First node id = 1, neighbors = [2, 3, 4] 
+<br />
+- **labels.txt:** Includes node IDs and their corresponding country labels.
 
 ## Statistical Summary
 **Nodes:** XXX <br />
