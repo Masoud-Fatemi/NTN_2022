@@ -28,7 +28,7 @@ The dataset was developed in 4 steps: **user extraction**, **labelling**, **filt
 Once these steps finished, directed links were established based on interactional relationships, and only the largest connected component was retained.
 
 ## Dataset Composition
-The NTN-2022 dataset comprises XXX nodes and XXX directed edges, representing user interactions. The dataset includes detailed country labels for each node, indicating the user's location among the five Nordic countries (FI=Finland, SE=Sweden, NO=Norway, DK=Denmark, IS=Iceland), with Finland and Sweden being the most represented.
+The NTN-2022 dataset comprises 3,273 nodes and 13,483 directed edges, representing user interactions. The dataset includes detailed country labels for each node, indicating the user's location among the five Nordic countries (FI=Finland, SE=Sweden, NO=Norway, DK=Denmark, IS=Iceland).
 <br />
 <br />
 **NOTE**: For privacy reasons, the collected tweets will not be made public, and user IDs have been anonymized.
